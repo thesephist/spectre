@@ -1,0 +1,12 @@
+checkpoints/spectre-sm-v6-512-4096-6e-07-1713100534.pt filter=lfs diff=lfs merge=lfs -text
+checkpoints/spectre-xl-v6-2048-16384-1.75e-07-1713154164.pt filter=lfs diff=lfs merge=lfs -text
+checkpoints/spectre-bs-v6-768-6144-3.5e-07-1713104459.pt filter=lfs diff=lfs merge=lfs -text
+checkpoints/spectre-lg-v6-1024-8192-5e-07-1713106961.pt filter=lfs diff=lfs merge=lfs -text
+features/spectre_features.lg-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/spectre_features.sm-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/spectre_features.xl-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/interpreted_spectre_features.bs-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/interpreted_spectre_features.lg-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/interpreted_spectre_features.sm-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/interpreted_spectre_features.xl-v6.jsonl filter=lfs diff=lfs merge=lfs -text
+features/spectre_features.bs-v6.jsonl filter=lfs diff=lfs merge=lfs -text
